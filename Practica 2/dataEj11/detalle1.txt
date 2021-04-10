@@ -1,0 +1,26 @@
+Neuquen
+1 156 200
+Neuquen
+2 200 400
+Neuquen
+3 199 201
+Neuquen
+4 3 7
+Rio Negro
+1 156 200
+Rio Negro
+2 200 400
+Chubut
+1 156 200
+Chubut
+3 199 201
+Chubut
+4 3 7
+Santa Cruz
+1 3 9
+Santa Cruz
+3 200 200
+Santa Cruz
+4 9 56
+Tierra del Fuego
+1 47 190

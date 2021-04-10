@@ -1,0 +1,26 @@
+Buenos Aires
+1 156 200
+Neuquen
+2 200 400
+Neuquen
+3 199 201
+Misiones
+4 3 7
+Misiones
+1 156 200
+Rio Negro
+2 200 400
+Chubut
+1 156 200
+Chubut
+3 199 201
+Chubut
+4 3 7
+Santa Cruz
+1 3 9
+Corrientes
+3 200 200
+Corrientes
+4 9 56
+Tierra del Fuego
+1 47 190
