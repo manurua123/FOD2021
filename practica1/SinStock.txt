@@ -1,4 +1,0 @@
-4 19000  lg	 k22
-0 10  desc4
-5 40000  nokia 	51Plus
-0 10  desc5
